@@ -13,7 +13,7 @@
     "array": ":Attribute må være en matrise.",
     "ascii": ":Attribute må bare inneholde enkeltbyte alfanumeriske tegn og symboler.",
     "attached": ":Attribute er allerede vedlagt.",
-    "attributes.team": "team",
+    "attributes.team": "Team",
     "before": ":Attribute må være en dato før :date.",
     "before_or_equal": ":Attribute må være en dato før eller lik :date.",
     "between.array": ":Attribute må ha mellom :min - :max elementer.",
