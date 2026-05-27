@@ -127,7 +127,7 @@
     "previous": "&laquo; Föregående",
     "prohibited": "Fältet :attribute är förbjudet.",
     "prohibited_if": ":Attribute är förbjudet när :other är :value.",
-    "prohibited_if_accepted": ":attribute-fältet är förbjudet när :other accepteras.",
+    "prohibited_if_accepted": ":Attribute-fältet är förbjudet när :other accepteras.",
     "prohibited_if_declined": "Fältet :attribute är förbjudet när :other avvisas.",
     "prohibited_unless": ":Attribute är förbjudet om inte :other är :values.",
     "prohibits": ":Attribute fältet förhindrar :other att ha ett värde.",
