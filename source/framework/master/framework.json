@@ -2,7 +2,6 @@
     "?:call|construct|debugInfo|destruct|get|set|isset|unset|toString|clone|set_state|sleep|wakeup|autoload|invoke|callStatic|serialize|unserialize": "?:call|construct|debugInfo|destruct|get|set|isset|unset|toString|clone|set_state|sleep|wakeup|autoload|invoke|callStatic|serialize|unserialize",
     "A decryption key is required.": "A decryption key is required.",
     "All rights reserved.": "All rights reserved.",
-    "e={}": "e={}",
     "Encrypted environment file already exists.": "Encrypted environment file already exists.",
     "Encrypted environment file not found.": "Encrypted environment file not found.",
     "Environment file already exists.": "Environment file already exists.",
