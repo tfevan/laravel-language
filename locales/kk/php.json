@@ -15,6 +15,7 @@
     "ascii": ":Attribute тек бір байтты әріптік-сандық таңбалар мен таңбаларды қамтуы керек.",
     "attached": "Бұл нөмір :attribute тіркелген.",
     "attributes.team": "команда",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute мәні :date күнінен дейінгі күн болуы керек.",
     "before_or_equal": ":Attribute мәні :date күнінен дейінгі күн немесе тең болуы керек.",
     "between.array": ":Attribute жиымы :min және :max аралығындағы элементтерден тұруы керек.",
