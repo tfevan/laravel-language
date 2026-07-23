@@ -15,6 +15,7 @@
     "ascii": ":Attribute mesti hanya mengandungi aksara dan simbol alfanumerik bait tunggal.",
     "attached": ":Attribute ini sudah dilampirkan.",
     "attributes.team": "pasukan",
+    "base64": "The :attribute field must be a valid Base64 string.",
     "before": ":Attribute mesti tarikh sebelum :date.",
     "before_or_equal": ":Attribute mesti tarikh sebelum atau sama dengan :date.",
     "between.array": ":Attribute mesti mengandungi antara :min dan :max perkara.",
