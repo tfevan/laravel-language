@@ -15,7 +15,7 @@
     "ascii": ":Attribute павінны ўтрымліваць толькі аднабайтавыя літары і сімвалы.",
     "attached": "Гэты нумар :attribute ўжо прымацаваны.",
     "attributes.team": "каманда",
-    "base64": "The :attribute field must be a valid Base64 string.",
+    "base64": "Поле :attribute павінна быць сапраўдным радком Base64.",
     "before": "У полі :attribute павінна быць дата да :date.",
     "before_or_equal": ":Attribute павінна быць датай да або роўнай :date.",
     "between.array": "Колькасць элементаў у поле :attribute павінна быць паміж :min і :max.",
