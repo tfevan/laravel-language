@@ -15,7 +15,7 @@
     "ascii": ":Attribute ត្រូវតែមានតួអក្សរ និងនិមិត្តសញ្ញាលេខមួយបៃប៉ុណ្ណោះ។",
     "attached": ":Attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។",
     "attributes.team": "ក្រុម",
-    "base64": "The :attribute field must be a valid Base64 string.",
+    "base64": "វាល :attribute ត្រូវតែជាខ្សែអក្សរ Base64 ត្រឹមត្រូវ។",
     "before": ":Attribute ត្រូវតែមានកាលបរិច្ឆេទមុន :date។",
     "before_or_equal": ":Attribute ត្រូវតែជាកាលបរិច្ឆេទ មុនឬស្មើ :date។",
     "between.array": ":Attribute ត្រូវតែមានចំនួនរវាង :min និង :max។",
