@@ -15,7 +15,7 @@
     "ascii": "O :attribute só debe conter caracteres e símbolos alfanuméricos dun só byte.",
     "attached": "Este :attribute xa está conectado.",
     "attributes.team": "equipo",
-    "base64": "The :attribute field must be a valid Base64 string.",
+    "base64": "O campo :attribute debe ser unha cadea Base64 válida.",
     "before": "O :attribute debe ser unha data anterior a :date.",
     "before_or_equal": "O :attribute debe ser unha data anterior ou igual a :date.",
     "between.array": "O :attribute debe estar entre :min e :max items.",
