@@ -11,7 +11,7 @@
     "array": "Šis laukas turi būti masyvas.",
     "ascii": "Šiame lauke turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis laukas jau yra pridėtas.",
-    "base64": "This field must be a valid Base64 string.",
+    "base64": "Šiame lauke turi būti galiojanti „Base64“ eilutė.",
     "before": "Šio lauko reikšmė turi būti data prieš :date.",
     "before_or_equal": "Šio lauko reikšmė privalo būti data lygi arba ankstesnė negu :date.",
     "between.array": "Elementų skaičius šiame lauke turi turėti nuo :min iki :max.",
