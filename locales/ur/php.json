@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "کیا آپ واقعی اس ٹیم کو حذف کرنا چاہتے ہیں؟",
     "are_you_sure_you_want_to_leave_team": "کیا آپ واقعی اس ٹیم کو چھوڑنا چاہتے ہیں؟",
     "array": ":Attribute لازماً کسی رینج پر مشتمل ہو۔",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute میں صرف سنگل بائٹ حروف عددی حروف اور علامتیں ہونی چاہئیں۔",
     "attached": "اس :attribute پہلے سے ہی ہے کے ساتھ منسلک.",
     "attributes.team": "ٹیم",
