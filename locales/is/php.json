@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Ertu viss um að þú viljir eyða þessu liði?",
     "are_you_sure_you_want_to_leave_team": "Ertu viss um að þú viljir yfirgefa þetta lið?",
     "array": "Reiturinn :attribute verður að vera fylki.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute má aðeins innihalda einsbæta alfanumeríska stafi og tákn.",
     "attached": "Þetta :attribute er nú þegar fylgir.",
     "attributes.team": "lið",
