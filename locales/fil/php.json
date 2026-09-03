@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Sigurado ka bang gusto mong tanggalin ang pangkat na ito?",
     "are_you_sure_you_want_to_leave_team": "Sigurado ka bang gusto mong umalis sa pangkat na ito?",
     "array": "Dapat na isang array ang :attribute.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Ang :attribute ay dapat lamang maglaman ng mga single-byte na alphanumeric na character at simbolo.",
     "attached": "Ang :attribute na ito ay nakakabit na.",
     "attributes.team": "pangkat",
