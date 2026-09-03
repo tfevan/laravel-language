@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Adakah anda pasti mahu memadamkan pasukan ini?",
     "are_you_sure_you_want_to_leave_team": "Adakah anda pasti mahu meninggalkan pasukan ini?",
     "array": ":Attribute mesti jujukan.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute mesti hanya mengandungi aksara dan simbol alfanumerik bait tunggal.",
     "attached": ":Attribute ini sudah dilampirkan.",
     "attributes.team": "pasukan",
