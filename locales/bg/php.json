@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Сигурни ли сте, че искате да изтриете този екип?",
     "are_you_sure_you_want_to_leave_team": "Сигурни ли сте, че искате да напуснете този отбор?",
     "array": "Полето :attribute трябва да бъде масив.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute-те трябва да съдържат само еднобайтови буквено-цифрови знаци и символи.",
     "attached": "Този номер :attribute вече е прикачен.",
     "attributes.team": "екип",
