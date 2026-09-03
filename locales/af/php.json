@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Is jy seker jy wil hierdie span uitvee?",
     "are_you_sure_you_want_to_leave_team": "Is jy seker jy wil hierdie span verlaat?",
     "array": "Die :attribute moet 'n array wees.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Die :attribute moet slegs enkelgreep alfanumeriese karakters en simbole bevat.",
     "attached": "Hierdie :attribute is reeds aangeheg.",
     "attributes.team": "span",
