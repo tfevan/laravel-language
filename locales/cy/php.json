@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Ydych chi'n siŵr eich bod am ddileu'r tîm hwn?",
     "are_you_sure_you_want_to_leave_team": "Ydych chi'n siŵr eich bod am adael y tîm hwn?",
     "array": "Rhaid i :attribute fod yn array.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "Rhaid i'r :attribute gynnwys nodau a symbolau alffaniwmerig un beit yn unig.",
     "attached": "Mae hyn yn :attribute eisoes ynghlwm.",
     "attributes.team": "tîm",
