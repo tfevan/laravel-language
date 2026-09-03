@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Իսկապե՞ս ուզում եք ջնջել այս թիմը:",
     "are_you_sure_you_want_to_leave_team": "Վստա՞հ եք, որ ցանկանում եք հեռանալ այս թիմից:",
     "array": ":Attribute դաշտը պետք է լինի զանգված։",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute-ը պետք է պարունակի միայն մեկ բայթանոց տառային թվային նիշեր և նշաններ:",
     "attached": ":Attribute դաշտը արդեն կցված է։",
     "attributes.team": "թիմը",
