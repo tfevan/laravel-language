@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "ඔබට මෙම කණ්ඩායම මැකීමට අවශ්‍ය බව විශ්වාසද?",
     "are_you_sure_you_want_to_leave_team": "ඔබට මෙම කණ්ඩායම හැර යාමට අවශ්‍ය බව විශ්වාසද?",
     "array": "මේ :attribute ය array එකක් විය යුතුය.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute හි අඩංගු විය යුත්තේ තනි බයිට් අක්ෂරාංක අක්ෂර සහ සංකේත පමණි.",
     "attached": "මේ :attribute මේ වන විටත් අමුණා ඇත.",
     "attributes.team": "කණ්ඩායම",
