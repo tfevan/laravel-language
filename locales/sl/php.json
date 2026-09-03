@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Ali ste prepričani, da želite izbrisati to ekipo?",
     "are_you_sure_you_want_to_leave_team": "Ali ste prepričani, da želite zapustiti to ekipo?",
     "array": ":Attribute mora biti polje.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute sme vsebovati le enobajtne alfanumerične znake in simbole.",
     "attached": "Ta :attribute je že priložena.",
     "attributes.team": "ekipa",
