@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "ಈ ತಂಡವನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?",
     "are_you_sure_you_want_to_leave_team": "ಈ ತಂಡವನ್ನು ತೊರೆಯಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?",
     "array": "ಈ  :attribute ಒಂದು ಶ್ರೇಣಿಯಾಗಿರಬೇಕು .",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute ಏಕ-ಬೈಟ್ ಆಲ್ಫಾನ್ಯೂಮರಿಕ್ ಅಕ್ಷರಗಳು ಮತ್ತು ಚಿಹ್ನೆಗಳನ್ನು ಮಾತ್ರ ಹೊಂದಿರಬೇಕು.",
     "attached": "ಈ :attribute ಈಗಾಗಲೇ ಲಗತ್ತಿಸಲಾಗಿದೆ.",
     "attributes.team": "ತಂಡ",
