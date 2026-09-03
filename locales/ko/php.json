@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "이 팀을 삭제하시겠습니까?",
     "are_you_sure_you_want_to_leave_team": "이 팀을 떠나시겠습니까?",
     "array": ":Attribute은(는) 배열이어야 합니다.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute은 1바이트 영숫자 문자와 기호만 포함해야 합니다.",
     "attached": ":Attribute은(는) 이미 첨부되어 있습니다.",
     "attributes.team": "팀",
