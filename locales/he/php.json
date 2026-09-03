@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "האם אתה בטוח שברצונך למחוק את הצוות הזה?",
     "are_you_sure_you_want_to_leave_team": "האם אתה בטוח שאתה רוצה לעזוב את הצוות הזה?",
     "array": "שדה :attribute חייב להיות מערך.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": "ה-:attribute חייב להכיל רק תווים וסמלים אלפאנומריים של בייט בודד.",
     "attached": "ה-:attribute הזה כבר מחובר.",
     "attributes.team": "קְבוּצָה",
