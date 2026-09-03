@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Шумо мутмаин ҳастед, ки мехоҳед ин дастаро нест кунед?",
     "are_you_sure_you_want_to_leave_team": "Оё мутмаин ҳастед, ки мехоҳед ин дастаро тарк кунед?",
     "array": "Қиммати :attribute бояд, ки массив бошад.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute бояд танҳо аломатҳо ва аломатҳои алифбои рақамиро дар бар гирад.",
     "attached": "Ин :attribute аллакай прикреплен.",
     "attributes.team": "даста",
