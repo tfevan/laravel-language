@@ -9,6 +9,7 @@
     "alpha_num": "This field must only contain letters and numbers.",
     "any_of": "بۇ ساھە ئىناۋەتسىز.",
     "array": "بۇ ساھە چوقۇم بىر سانلار گۇرپىسى بولۇشى كېرەك.",
+    "array_keys": "This field must only contain the following keys: :values.",
     "ascii": "بۇ ساھەدە پەقەت بىرلا بايىتلىق ھەرپ-بەلگىلەر ۋە بەلگىلەر بولۇشى كېرەك.",
     "attached": "بۇ ساھە ئاللىقاچان باغلانغان.",
     "base64": "بۇ ساھە چوقۇم ئۈنۈملۈك Base64 تىزمىسى بولۇشى كېرەك.",

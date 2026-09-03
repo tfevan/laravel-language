@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "بۇ كوماندىنى ئۆچۈرمەكچىمۇ؟",
     "are_you_sure_you_want_to_leave_team": "بۇ كوماندىدىن ئايرىلىشنى خالامسىز؟",
     "array": ":Attribute چوقۇم بۇرۇن بۇلىشى كېرەك.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute دە پەقەت بىرلا بايىتلىق ھەرپ-بەلگىلەر ۋە بەلگىلەر بولۇشى كېرەك.",
     "attached": "بۇ :attribute ئاللىقاچان باغلانغان.",
     "attributes.team": "team",
