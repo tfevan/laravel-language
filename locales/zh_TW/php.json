@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "您確定要刪除該團隊嗎？",
     "are_you_sure_you_want_to_leave_team": "您確定要離開這個團隊嗎？",
     "array": ":Attribute 必須為陣列。",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute 必須僅包含單字節字母數字字符和符號。",
     "attached": "这 :attribute 已经連接。",
     "attributes.team": "團隊",
