@@ -12,6 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Вы ўпэўнены, што хочаце выдаліць гэту каманду?",
     "are_you_sure_you_want_to_leave_team": "Вы ўпэўнены, што хочаце пакінуць гэтую каманду?",
     "array": "Поле :attribute павінна быць масівам.",
+    "array_keys": "The :attribute field must only contain the following keys: :values.",
     "ascii": ":Attribute павінны ўтрымліваць толькі аднабайтавыя літары і сімвалы.",
     "attached": "Гэты нумар :attribute ўжо прымацаваны.",
     "attributes.team": "каманда",
