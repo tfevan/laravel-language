@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Esteu segur que voleu suprimir aquest equip?",
     "are_you_sure_you_want_to_leave_team": "Estàs segur que vols deixar aquest equip?",
     "array": ":Attribute ha de ser una matriu.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "El camp :attribute només ha de contenir les claus següents: :values.",
     "ascii": "El :attribute només ha de contenir caràcters i símbols alfanumèrics d'un sol byte.",
     "attached": "Aquest :attribute ja té.",
     "attributes.team": "equip",
