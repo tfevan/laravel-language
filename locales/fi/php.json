@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Haluatko varmasti poistaa tämän joukkueen?",
     "are_you_sure_you_want_to_leave_team": "Oletko varma, että haluat jättää tämän tiimin?",
     "array": "Kenttä :attribute tulee olla taulukko.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute-kenttä saa sisältää vain seuraavat avaimet: :values.",
     "ascii": ":Attribute saa sisältää vain yksitavuisia aakkosnumeerisia merkkejä ja symboleja.",
     "attached": "Tämä :attribute on jo kiinnitetty.",
     "attributes.team": "tiimi",
