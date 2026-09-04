@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Kas olete kindel, et soovite selle meeskonna kustutada?",
     "are_you_sure_you_want_to_leave_team": "Kas olete kindel, et soovite sellest meeskonnast lahkuda?",
     "array": ":Attribute peab olema massiiv.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "Väli :attribute peab sisaldama ainult järgmisi võtmeid: :values.",
     "ascii": ":Attribute peab sisaldama ainult ühebaidiseid tähtnumbrilisi märke ja sümboleid.",
     "attached": "See :attribute on juba lisatud.",
     "attributes.team": "meeskond",
