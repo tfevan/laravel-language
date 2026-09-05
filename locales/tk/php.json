@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Bu topary ýok etmek isleýändigiňize ynanýarsyňyzmy?",
     "are_you_sure_you_want_to_leave_team": "Bu topardan gitmek isleýändigiňize ynanýarsyňyzmy?",
     "array": ":Attribute ýygyndy bolmalydyr.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute meýdanda diňe aşakdaky düwmeler bolmaly: :values.",
     "ascii": ":Attribute-de diňe bir baýtly harp sanlary we nyşanlary bolmaly.",
     "attached": "Bu :attribute eýýäm birikdirildi.",
     "attributes.team": "topary",
