@@ -9,7 +9,7 @@
     "alpha_num": "This field must only contain letters and numbers.",
     "any_of": "Dette feltet er ugyldig.",
     "array": "Dette feltet må være en matrise.",
-    "array_keys": "This field must only contain the following keys: :values.",
+    "array_keys": "Dette feltet må kun inneholde følgende nøkler: :values.",
     "ascii": "Dette feltet må bare inneholde enkeltbyte alfanumeriske tegn og symboler.",
     "attached": "Dette feltet er allerede vedlagt.",
     "base64": "Dette feltet må være en gyldig Base64-streng.",
