@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Er du sikker på at du vil slette dette teamet?",
     "are_you_sure_you_want_to_leave_team": "Er du sikker på at du vil forlate dette laget?",
     "array": ":Attribute må vere ei matrise.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute-feltet må bare inneholde følgende nøkler: :values.",
     "ascii": ":Attribute må bare inneholde enkeltbyte alfanumeriske tegn og symboler.",
     "attached": "Denne :attribute er allerede vedlagt.",
     "attributes.team": "team",
