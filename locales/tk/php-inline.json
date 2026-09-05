@@ -9,7 +9,7 @@
     "alpha_num": "This field must only contain letters and numbers.",
     "any_of": "Bu meýdan nädogry",
     "array": "Bu meýdan bir massiw bolmaly.",
-    "array_keys": "This field must only contain the following keys: :values.",
+    "array_keys": "Bu meýdan diňe aşakdaky düwmeleri öz içine almalydyr: :values.",
     "ascii": "Bu meýdanda diňe bir baýtly harp sanlary we nyşanlary bolmaly.",
     "attached": "Bu meýdan eýýäm birikdirildi.",
     "base64": "Bu meýdan dogry Base64 setiri bolmaly.",
