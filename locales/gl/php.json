@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Estás seguro de que queres eliminar este equipo?",
     "are_you_sure_you_want_to_leave_team": "Estás seguro de que queres deixar este equipo?",
     "array": "O :attribute debe ser un array.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "O campo :attribute só debe conter as seguintes claves: :values.",
     "ascii": "O :attribute só debe conter caracteres e símbolos alfanuméricos dun só byte.",
     "attached": "Este :attribute xa está conectado.",
     "attributes.team": "equipo",
