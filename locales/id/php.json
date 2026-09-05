@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Apakah kamu yakin ingin menghapus tim ini?",
     "are_you_sure_you_want_to_leave_team": "Apakah kamu yakin ingin keluar dari tim ini?",
     "array": ":Attribute harus berisi sebuah array.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "Bidang :attribute hanya boleh berisi kunci berikut: :values.",
     "ascii": ":Attribute hanya boleh berisi karakter dan simbol alfanumerik single-byte.",
     "attached": ":Attribute sudah dilampirkan.",
     "attributes.team": "tim",
