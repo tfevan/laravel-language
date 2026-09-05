@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Vai tiešām vēlaties dzēst šo komandu?",
     "are_you_sure_you_want_to_leave_team": "Vai tiešām vēlaties pamest šo komandu?",
     "array": ":Attribute ir jābūt sakārtotam.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "Laukā :attribute drīkst būt tikai šādas atslēgas: :values.",
     "ascii": ":Attribute drīkst saturēt tikai viena baita burtciparu rakstzīmes un simbolus.",
     "attached": "Šis :attribute jau ir pievienots.",
     "attributes.team": "komanda",
