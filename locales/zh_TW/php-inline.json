@@ -9,7 +9,7 @@
     "alpha_num": "只能以字母及數字組成。",
     "any_of": "該欄位無效。",
     "array": "必須為陣列。",
-    "array_keys": "This field must only contain the following keys: :values.",
+    "array_keys": "此欄位只能包含以下按鍵：:values。",
     "ascii": "只能以半形英數符號組成。",
     "attached": "已經附加。",
     "base64": "該字段必須是有效的 Base64 字串。",
