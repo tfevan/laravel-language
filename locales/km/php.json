@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "តើអ្នកប្រាកដថាចង់លុបក្រុមនេះទេ?",
     "are_you_sure_you_want_to_leave_team": "តើអ្នកប្រាកដថាចង់ចាកចេញពីក្រុមនេះទេ?",
     "array": ":Attribute ត្រូវតែជា សំណុំ។",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "វាលទាំង :attribute ត្រូវតែមានកូនសោខាងក្រោមតែប៉ុណ្ណោះ៖ :values.",
     "ascii": ":Attribute ត្រូវតែមានតួអក្សរ និងនិមិត្តសញ្ញាលេខមួយបៃប៉ុណ្ណោះ។",
     "attached": ":Attribute ត្រូវបានភ្ជាប់រួចទៅហើយ។",
     "attributes.team": "ក្រុម",
