@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "დარწმუნებული ხართ, რომ გსურთ ამ გუნდის წაშლა?",
     "are_you_sure_you_want_to_leave_team": "დარწმუნებული ხართ, რომ გსურთ ამ გუნდის დატოვება?",
     "array": ":Attribute უნდა იყოს მასივი.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute ველი უნდა შეიცავდეს მხოლოდ შემდეგ კლავიშებს: :values.",
     "ascii": ":Attribute უნდა შეიცავდეს მხოლოდ ერთ ბაიტიან ალფაციფრულ სიმბოლოებს და სიმბოლოებს.",
     "attached": "ეს :attribute უკვე ერთვის.",
     "attributes.team": "გუნდი",
