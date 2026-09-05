@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Biztosan törli ezt a csapatot?",
     "are_you_sure_you_want_to_leave_team": "Biztos, hogy elhagyja ezt a csapatot?",
     "array": "A(z) :attribute egy tömb kell, hogy legyen!",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "A :attribute-es mező csak a következő kulcsokat tartalmazhatja: :values.",
     "ascii": "A :attribute csak egybájtos alfanumerikus karaktereket és szimbólumokat tartalmazhat.",
     "attached": "Ezt a :attribute-at már csatolták.",
     "attributes.team": "csapat",
