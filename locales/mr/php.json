@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "तुमची खात्री आहे की तुम्ही हा संघ हटवू इच्छिता?",
     "are_you_sure_you_want_to_leave_team": "तुमची खात्री आहे की तुम्ही हा संघ सोडू इच्छिता?",
     "array": ":Attribute साठी फक्त सूची वैध आहे.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute फील्डमध्ये फक्त खालील की असणे आवश्यक आहे: :values.",
     "ascii": ":Attribute मध्ये फक्त सिंगल-बाइट अल्फान्यूमेरिक वर्ण आणि चिन्हे असणे आवश्यक आहे.",
     "attached": "या :attribute आधीच संलग्न आहे.",
     "attributes.team": "संघ",
