@@ -9,7 +9,7 @@
     "alpha_num": "Ez a mező csak betűket és számokat tartalmazhat.",
     "any_of": "Ez a mező érvénytelen.",
     "array": "Ennek a mezőnek tömbnek kell lennie.",
-    "array_keys": "This field must only contain the following keys: :values.",
+    "array_keys": "Ez a mező csak a következő kulcsokat tartalmazhatja: :values.",
     "ascii": "Ez a mező csak egybájtos alfanumerikus karaktereket és szimbólumokat tartalmazhat.",
     "attached": "Ez a mező már csatolva van.",
     "base64": "Ennek a mezőnek érvényes Base64 karakterláncnak kell lennie.",
