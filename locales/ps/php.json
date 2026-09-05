@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "ایا تاسو ډاډه یاست چې دا ټیم حذف کول غواړئ؟",
     "are_you_sure_you_want_to_leave_team": "ایا تاسو ډاډه یاست چې دا ټیم پریږدئ؟",
     "array": "دا باید وي :attribute ًمیټرکس.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute ساحه باید یوازې لاندې کیلي ولري: :values.",
     "ascii": ":Attribute باید یوازې د واحد بایټ الفانومریک حروف او سمبولونه ولري.",
     "attached": "دا :attribute لا دمخه ضمیمه شوی.",
     "attributes.team": "ټیم",
