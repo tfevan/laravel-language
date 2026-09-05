@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Бұл топты шынымен жойғыңыз келе ме?",
     "are_you_sure_you_want_to_leave_team": "Бұл командадан кеткіңіз келетініне сенімдісіз бе?",
     "array": ":Attribute жиым болуы керек.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": ":attribute өрісінде тек келесі кілттер болуы керек: :values.",
     "ascii": ":Attribute тек бір байтты әріптік-сандық таңбалар мен таңбаларды қамтуы керек.",
     "attached": "Бұл нөмір :attribute тіркелген.",
     "attributes.team": "команда",
