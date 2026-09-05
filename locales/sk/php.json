@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Naozaj chcete odstrániť tento tím?",
     "are_you_sure_you_want_to_leave_team": "Ste si istý, že chcete opustiť tento tím?",
     "array": ":Attribute musí byť pole.",
-    "array_keys": "The :attribute field must only contain the following keys: :values.",
+    "array_keys": "Pole :attribute musí obsahovať iba nasledujúce kľúče: :values.",
     "ascii": "Číslo :attribute musí obsahovať iba jednobajtové alfanumerické znaky a symboly.",
     "attached": "Tento :attribute je už pripojený.",
     "attributes.team": "tím",
