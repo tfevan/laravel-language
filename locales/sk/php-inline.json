@@ -9,7 +9,7 @@
     "alpha_num": "Toto pole môže obsahovať iba písmená a číslice.",
     "any_of": "Toto pole je neplatné.",
     "array": "Toto pole musí byť pole.",
-    "array_keys": "This field must only contain the following keys: :values.",
+    "array_keys": "Toto pole musí obsahovať iba nasledujúce kľúče: :values.",
     "ascii": "Toto pole môže obsahovať iba jednobajtové alfanumerické znaky a symboly.",
     "attached": "Toto pole je už pripojené.",
     "base64": "Toto pole musí byť platný reťazec Base64.",
