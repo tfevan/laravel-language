@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Ziur talde hau ezabatu nahi duzula?",
     "are_you_sure_you_want_to_leave_team": "Ziur talde hau utzi nahi duzula?",
     "array": ":Attribute bilduma izan behar da.",
-    "array_keys": ":attribute eremuak gako hauek soilik izan behar ditu: :values.",
+    "array_keys": ":Attribute eremuak gako hauek soilik izan behar ditu: :values.",
     "ascii": ":Attributeak byte bakarreko karaktere alfanumeriko eta ikurrak soilik izan behar ditu.",
     "attached": "Hau :attribute da dagoeneko erantsita.",
     "attributes.team": "taldea",
