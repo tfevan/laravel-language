@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "क्या आप वाकई इस टीम को हटाना चाहते हैं?",
     "are_you_sure_you_want_to_leave_team": "क्या आप वाकई इस टीम को छोड़ना चाहते हैं?",
     "array": ":Attribute एक सरणी होनी चाहिए ।",
-    "array_keys": ":attribute फ़ील्ड में केवल निम्नलिखित कुंजियाँ होनी चाहिए: :values.",
+    "array_keys": ":Attribute फ़ील्ड में केवल निम्नलिखित कुंजियाँ होनी चाहिए: :values.",
     "ascii": ":Attribute में केवल सिंगल-बाइट अल्फ़ान्यूमेरिक वर्ण और प्रतीक होने चाहिए।",
     "attached": "यह :attribute पहले से ही संलग्न है ।",
     "attributes.team": "टीम",
