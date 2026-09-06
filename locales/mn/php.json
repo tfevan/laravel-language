@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Та энэ багийг устгахдаа итгэлтэй байна уу?",
     "are_you_sure_you_want_to_leave_team": "Та энэ багийг орхихдоо итгэлтэй байна уу?",
     "array": ":Attribute талбар массив байх шаардлагатай.",
-    "array_keys": ":attribute талбарт зөвхөн дараах товчлуурууд байх ёстой: :values.",
+    "array_keys": ":Attribute талбарт зөвхөн дараах товчлуурууд байх ёстой: :values.",
     "ascii": ":Attribute нь зөвхөн нэг байт үсэг, тоон тэмдэгтүүдийг агуулсан байх ёстой.",
     "attached": "Энэ нь :attribute аль хэдийн хавсаргасан байна.",
     "attributes.team": "баг",
