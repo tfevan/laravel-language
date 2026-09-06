@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Ar tikrai norite ištrinti šią komandą?",
     "are_you_sure_you_want_to_leave_team": "Ar tikrai norite palikti šią komandą?",
     "array": "Laukas :attribute turi būti masyvas.",
-    "array_keys": ":attribute lauke turi būti tik šie raktai: :values.",
+    "array_keys": ":Attribute lauke turi būti tik šie raktai: :values.",
     "ascii": ":Attribute turi būti tik vieno baito raidiniai ir skaitmeniniai simboliai ir simboliai.",
     "attached": "Šis :attribute jau yra pridėtas.",
     "attributes.team": "komanda",
