@@ -12,7 +12,7 @@
     "are_you_sure_you_want_to_delete_team": "Bu jamoani oʻchirib tashlamoqchimisiz?",
     "are_you_sure_you_want_to_leave_team": "Haqiqatan ham bu jamoani tark etmoqchimisiz?",
     "array": ":Attribute қатордан иборат бўлиши керак.",
-    "array_keys": ":attribute maydonida faqat quyidagi kalitlar bo'lishi kerak: :values.",
+    "array_keys": ":Attribute maydonida faqat quyidagi kalitlar bo'lishi kerak: :values.",
     "ascii": ":Attribute faqat bitta baytli alfanumerik belgilar va belgilarni o'z ichiga olishi kerak.",
     "attached": "Bu :attribute allaqachon biriktirilgan.",
     "attributes.team": "jamoa",
